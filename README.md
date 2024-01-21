@@ -8,4 +8,7 @@ The Superstore_US dataset is data from a retail chain that sells office supplies
 
 **Link to dashboard:** https://rb.gy/wdkkkq
 
+![Sales Dashboard (Light)](https://github.com/AbhishekTheAnalyst/US_Superstore_Analysis_with_Tableau/assets/109465334/13575fd3-190a-4f9d-bdea-ef5d8eafd296)
+
+
 
