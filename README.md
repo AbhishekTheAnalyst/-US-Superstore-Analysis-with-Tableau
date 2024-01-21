@@ -91,4 +91,34 @@ Initially, we conducted the data cleaning process by addressing the missing valu
 
 We can help them to understand which products, regions, categories and customer segments they can target or avoid.
 
+**Analysis Enhancements:**
+--------------------------------------------------------------------------------------------------------------------------
+
+**📈 Custom Calculations, Parameters, and Dynamic Measures:**
+
+We have implemented custom calculations, tailored to what is required for our business questions and context, and incorporated parameters and dynamic measures to modify visualisations based on user-selected metrics. 
+
+**🔑 Valuable Insights:**
+--------------------------------------------------------------------------------------------------------------------------
+
+**KPI Trends (2021 vs. 2022)**
+
+• Total Sales: Increased to $746K in 2022, representing a growth of 21.44%.
+
+• Total Profit: Reached $96K in 2022, showcasing a notable increase of 16.04%.
+
+• Total Quantity Sold: Recorded 13K units in 2022, indicating a substantial growth of 27.14%.
+
+
+**State-wise Distribution:**
+
+• States Above US Sales Average: 19 states reported sales above the national average.
+
+• States Below US Sales Average: 38 states reported sales below the national average.
+
+• States Above US Profit Average: 36 states reported profits above the national average.
+
+• States Below US Profit Average: 21 states reported profits below the national average.
+
+We also identified **California** as recorded with **Highest Sales** with a Total Current Year Sales of $1,46,388 and a Profit of $29,366 in 2022 followed by New York with a Total Current Year Sales of $93,923 and a Profit of $24,357.
 
