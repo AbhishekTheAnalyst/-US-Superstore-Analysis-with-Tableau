@@ -101,9 +101,9 @@ We have implemented custom calculations, tailored to what is required for our bu
 **🔑 Valuable Insights:**
 --------------------------------------------------------------------------------------------------------------------------
 
-**KPI Trends (2021 vs. 2022)**
+**1.) KPI Trends (2021 vs. 2022)**
 
-• Total Sales: Increased to $746K in 2022, representing a growth of 21.44%.
+• **Total Sales:** Increased to $746K in 2022, representing a growth of 21.44%.
 
 • Total Profit: Reached $96K in 2022, showcasing a notable increase of 16.04%.
 
