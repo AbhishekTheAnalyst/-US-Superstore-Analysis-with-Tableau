@@ -56,6 +56,10 @@ There are 21 variables in this data set.
 
 •	Profit - Profit/Loss incurred.
 
+# Data Cleaning:
+--------------------------------------------------------------------------------------------------------------------------
+
+
 They would like to understand which products, regions, categories and customer segments they should target or avoid.
 
 
