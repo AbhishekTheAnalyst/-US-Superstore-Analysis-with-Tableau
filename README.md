@@ -103,35 +103,44 @@ We have implemented custom calculations, tailored to what is required for our bu
 
 **1.) KPI Trends (2021 vs. 2022)**
 
-• **Total Sales:** Increased to $746K in 2022, representing a growth of 21.44%.
+• **Total Sales:** Increased to **$746K** in **2022**, representing a growth of **21.44%.**
 
-• Total Profit: Reached $96K in 2022, showcasing a notable increase of 16.04%.
+• **Total Profit:** Reached **$96K** in **2022**, showcasing a notable increase of **16.04%.**
 
-• Total Quantity Sold: Recorded 13K units in 2022, indicating a substantial growth of 27.14%.
+• **Total Quantity Sold:** Recorded **13K** units in **2022**, indicating a substantial growth of **27.14%.**
 
 
-**State-wise Distribution:**
+**2.) State-wise Distribution:**
 
-• States Above US Sales Average: 19 states reported sales above the national average.
+• **States Above US Sales Average:** **19** states reported sales above the national average.
 
-• States Below US Sales Average: 38 states reported sales below the national average.
+• **States Below US Sales Average:** **38** states reported sales below the national average.
 
-• States Above US Profit Average: 36 states reported profits above the national average.
+• **States Above US Profit Average:** **36** states reported profits above the national average.
 
-• States Below US Profit Average: 21 states reported profits below the national average.
+• **States Below US Profit Average:** **21** states reported profits below the national average.
 
 **California** recorded the **Highest Sales** with a Total Current Year Sales of **$1,46,388** and a Profit of **$29,366** in **2022** followed by **New York** with a Total Current Year Sales of **$93,923** and a Profit of **$24,357.**
 
-**Monthly Sales by Segment - Total Current Year Sales:**
+**3.) Monthly Sales by Segment ~~ Total Current Year Sales:**
 
-📊 Consumer Segment:
+**📊 Consumer Segment:**
 
-Experienced a dip in total current year sales with **$5.59k** in **February** and Achieved an impressive **$50.59k** in December demonstrating consumer demand during the Christmas holiday season.
+Experienced a dip in total current year sales with **$5.59k** in **February** and achieved an impressive **$50.59k** in December demonstrating consumer demand during the Christmas holiday season.
 
-📊 Corporate Segment:
+**📊 Corporate Segment:**
 
 Experienced a dip with **$7.96k** in **February** and recorded a peak monthly total current year sales figure of **$44.65k** in December indicating strong corporate purchasing during the year-end.
 
-📊 Home Office Segment:
+**📊 Home Office Segment:**
 
 Experienced a dip of **$5.81k** in August and showcased substantial sales with **$29.72k** in October.
+
+**4.)Regional Impact (Total Sales by Location):**
+
+**West** achieved sales of **$258K** followed by **East** with a sales of **$217K**, **Central** with sales of **$148K**, **South** with sales of **$123K**
+
+**Recommendations:**
+--------------------------------------------------------------------------------------------------------------------------
+
+Leverage the Festive Seasons, As we have seen a peak in the consumer segment and Corporate Segment in sales during December, consider implementing targeted marketing campaigns and promotions during festive seasons to capitalise on increased consumer spending. Also, explore ways to strengthen the B2B relationships, offer incentives, or provide tailored solutions to attract corporate clients throughout the year.
