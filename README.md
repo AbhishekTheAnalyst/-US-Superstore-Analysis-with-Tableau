@@ -120,5 +120,18 @@ We have implemented custom calculations, tailored to what is required for our bu
 
 • States Below US Profit Average: 21 states reported profits below the national average.
 
-We also identified **California** as recorded with **Highest Sales** with a Total Current Year Sales of $1,46,388 and a Profit of $29,366 in 2022 followed by New York with a Total Current Year Sales of $93,923 and a Profit of $24,357.
+**California** recorded the **Highest Sales** with a Total Current Year Sales of **$1,46,388** and a Profit of **$29,366** in **2022** followed by **New York** with a Total Current Year Sales of **$93,923** and a Profit of **$24,357.**
 
+**Monthly Sales by Segment - Total Current Year Sales:**
+
+📊 Consumer Segment:
+
+Experienced a dip in total current year sales with **$5.59k** in **February** and Achieved an impressive **$50.59k** in December demonstrating consumer demand during the Christmas holiday season.
+
+📊 Corporate Segment:
+
+Experienced a dip with **$7.96k** in **February** and recorded a peak monthly total current year sales figure of **$44.65k** in December indicating strong corporate purchasing during the year-end.
+
+📊 Home Office Segment:
+
+Experienced a dip of **$5.81k** in August and showcased substantial sales with **$29.72k** in October.
