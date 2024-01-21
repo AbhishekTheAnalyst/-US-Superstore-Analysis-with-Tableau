@@ -15,7 +15,9 @@ The Superstore_US dataset is data from a retail chain that sells office supplies
 There are 21 variables in this data set.
 
 •	Row ID - Unique ID for each row.
+
 •	Order ID - Unique Order ID for each Customer.
+
 •	Order Date - Order Date of the product.
 •	Ship Date - Shipping Date of the Product.
 •	Ship Mode - Shipping Mode specified by the Customer.
