@@ -57,11 +57,38 @@ There are 21 variables in this data set with 9994 observations.
 
 •	Profit - Profit/Loss incurred.
 
-**Data Cleaning:**
+**🧹 Data Cleaning:**
 --------------------------------------------------------------------------------------------------------------------------
 
+Initially, we conducted the data cleaning process by addressing the missing values, removing duplicates and standardising the data types to have a solid foundation for our data analysis.
 
-They would like to understand which products, regions, categories and customer segments they should target or avoid.
+**🤔 Discover Insights with these questions:**
+--------------------------------------------------------------------------------------------------------------------------
 
+**1.) KPI Trends (2021 vs. 2022):**
+
+• What's the growth percentage in total sales from 2021 to 2022?
+
+• What's the growth percentage in total profit from 2021 to 2022?
+
+• What's the growth percentage in the quantity sold from 2021 to 2022?
+
+**2.) State-wise Distribution:**
+
+• Which states reported sales and profit above the US average?
+
+• Which states reported sales and profit below the US average?
+
+**3.) Monthly Sales by Segment:**
+
+• Monthly sales trends for Consumer, Corporate, and Home Office segments?
+
+**4.)Regional Impact (Total Sales by Location):**
+
+• What were the total sales for each region (West, East, Central, South)?
+
+**Recommendations:** 
+
+We can help them to understand which products, regions, categories and customer segments they can target or avoid.
 
 
